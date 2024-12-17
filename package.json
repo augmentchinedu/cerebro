@@ -1,0 +1,17 @@
+{
+  "name": "cerebro",
+  "version": "1.0.0",
+  "description": "A Cerebro",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Augment Chinedu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
