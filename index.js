@@ -1,4 +1,4 @@
-const { init } = require("core");
+const { init } = require("./core");
 const path = require("path");
 const cors = require("cors");
 const morgan = require("morgan");
